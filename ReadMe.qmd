@@ -8,7 +8,7 @@ Author List
 
 > Google Docs link
 
-https://docs.google.com/document/d/1zTWdhjWLwrwkzDzFAPY3wH645nqOIV6uCPnrUSE0Wo8/edit?usp=sharing
+https://docs.google.com/document/d/1zTWdhjWLwrwkzDzFAPY3wH645nqOIV6uCPnrUSE0Wo8/edit?usp=sharinggi
 
 ## Database
 
@@ -17,6 +17,10 @@ https://docs.google.com/document/d/1zTWdhjWLwrwkzDzFAPY3wH645nqOIV6uCPnrUSE0Wo8/
 ## Presentation
 
 > Google Slides link
+
+## Annotation Images
+
+https://github.com/Gomezt13/pisum-images
 
 ---
 
